@@ -6,3 +6,7 @@
 
 ### Extensions for database access:
 1. [SQL Tools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)
+
+
+### Extensions for WebDevelopement
+1. [Auto Rename Tag for HTML](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
