@@ -10,3 +10,5 @@
 
 ### Extensions for WebDevelopement
 1. [Auto Rename Tag for HTML](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+2. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
